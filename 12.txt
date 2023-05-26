@@ -1,0 +1,10 @@
+2 )what are the entities?List out commonly used html entities?
+An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon ( ; ). Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces)
+
+
+
+Result	Description		Entity Name
+<		less than	      	&lt;
+>		greater than		&gt;
+&		ampersand			&amp;
+"		double quotation mark	&quot;

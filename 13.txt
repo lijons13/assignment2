@@ -1,0 +1,12 @@
+3) What is web accessibilty?
+List some of theassistive devices which play a major role in providing accessibility?
+answer)What is Web Accessibility. Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the Web. contribute to the Web.
+
+
+magnifiers,
+talking devices such as a talking thermostat,
+Braille displays,
+screen reading software,
+text-to-speech systems using Optical Character Recognition (OCR),
+large print materials, and.
+phones with large tactile buttons.

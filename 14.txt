@@ -1,0 +1,14 @@
+4) any three ways which help us in improving the accessibility of html?
+
+Social Importance
+Web accessibility is a social issue for people living with disabilities. The ability to access the web, its content, and services without barriers allows all people to participate in our society and, thus, prevents further marginalization. 
+
+Around 15% of the world's population is living with disabilities. This figure is likely to increase as people live longer lives and experience greater limitations to their vision, motor functions, and hearing. 
+Economic Opportunities
+Web accessibility helps brands to reach a much larger audience, which can lead to new customers and an increase in revenue. Furthermore, ignoring the disabled community means ignoring millions of potential customers with billions in purchasing power.
+
+According to a study, online retailers in the UK lost up to £11.75 billion due to a lack of web accessibility.
+
+Legal Requirements
+In many places, web accessibility is protected under the law. In the United States, Canada, and European Union, web accessibility is a right and therefore requires brands to ensure their websites and online content are accessible. Failure to comply with web accessibility standards can land brands in hot water.
+
